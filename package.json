@@ -2,10 +2,13 @@
   "dependencies": {
     "bcrypt": "^6.0.0",
     "cookie-parser": "^1.4.7",
+    "crypto": "^1.0.1",
     "ejs": "^3.1.10",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.19.2"
+    "mongoose": "^8.19.2",
+    "multer": "^2.0.2",
+    "path": "^0.12.7"
   },
   "name": "mini-project-1",
   "version": "1.0.0",
